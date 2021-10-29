@@ -1,0 +1,35 @@
+The goal of Puzzle Miner is to create the most enjoyable experience of collecting and obtaining gear, resources, etc.
+
+How we want players to feel:
+- Many options to choose from.
+- Many unknown options to choose from.
+- Experimentation with many options.
+- Enjoyable and fun new mechanics.
+- Cooperation with other players and sharing of findings.
+
+Puzzle Miner is an attempt to revamp every system in the game with "more fun" systems.
+
+The largest modification is the mining system itself. Players will still craft a wooden pickaxe which is then used to mine one block. Just one. Before it breaks.
+However, what should be immediately obvious is the difference in the mining system.
+
+Blocks are divided into four tiers of breakability:
+ Tier 0 (Wood): Breaks Stone only
+ Tier 1 (Stone): Breaks Dense Rock
+ Tier 2 (Iron): Breaks Obsidian
+ Tier 3 (Diamond): Breaks Diamond
+
+ When a block is mined, the base material is dropped as well. This results in the following:
+ Stone: Drops Cobblestone
+ Dense Rock: Drops Stone
+ Obsidian: Drops Obsidian
+ Diamond: Drops Diamond Blocks
+
+ This means these four items will become the most common items in the game. Which is fine because they won't be the most pivotal items available.
+
+Each block will be composed of one of these four outer block shells. What is contained within is what changes:
+
+Directional Block: Points in a direction indicating anything adjacent in the direction pointed in will be broken as well when mined.
+Bomb Block: Blows up all 26 adjacent blocks around it as well.
+xY Block: Multiplies all items gathered and mob spawns from this mining attempt by Y.
+Mob block: Spawns mobs.
+Ore Block: Provides a type of ore or resource. Every resource comes with its own variety and perks for each type of tool created.
